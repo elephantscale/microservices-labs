@@ -3,15 +3,34 @@
 
 ## Step 1: Install Spring Boot CLI tool
 
+
+On Mac OS X, you can use homebrew:
+
+```bash
+brew tap pivotal/tap
+brew install springboot
+```
+
+Check and make sure that it is installed:
+
+```console
+ $ spring –-version
+
+Spring CLI v2.1.8.RELEASE
+```
+
+On Windows or Linux, you will install this manually:
+
 Install the Spring Boot command-line tool by downloading the CLI tool located [here](http://repo.spring.io/release/org/springframework/boot/spring-boot-cli/2.1.8.RELEASE/spring- boot-cli-2.1.8.RELEASE-bin.zip).
 
-Unzip the file into a directory of your choice. Open a terminal window and change the terminal prompt to the `bin` folder.
+Unzip the file into a directory of your choice. Open a terminal window and add to your `$HOME/bin` folder 
 
-Ensure the `.bin` folder is added to the system path so that Spring Boot can be run frm any location.
+Ensure the `bin` folder is added to the system path so that Spring Boot can be run frm any location.
 
 Verify the installation with the following command. If successful, the Spring CLI version will be printed in the console:
 
-```java
+
+```console
  $ spring –-version
 
 Spring CLI v2.1.8.RELEASE
