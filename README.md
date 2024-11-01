@@ -9,8 +9,10 @@ These are microservices labs
     * [Microservices 2](./spring-boot/1.3-api-lab.md)
     * [Microservices 3](./spring-boot/1.4-api-lab.md)
     * [Microservices 4](./spring-boot/1.5-api-lab.md)
+    * [Microservices 5](./spring-boot/1.6-api-lab.md)
+    * [Microservices 6](./spring-boot/1.7-api-lab.md)
 
-    
+
 ## Old Labs.
 
 2. [Limits-Service](./limits-service)
