@@ -1,17 +1,16 @@
-# microservices-labs
+# Microservices Labs
 
-These are microservices labs
 
-1. [Spring Boot](./spring-boot)
-    * [Environment preparation](./spring-boot/1.0-env-prepare.md)
-    * [Getting Start](./spring-boot/1.1-api-lab.md)
-    * [Microservices 1](./spring-boot/1.2-api-lab.md)
-    * [Microservices 2](./spring-boot/1.3-api-lab.md)
-    * [Microservices 3](./spring-boot/1.4-api-lab.md)
-    * [Microservices 4](./spring-boot/1.5-api-lab.md)
-    * [Microservices 5](./spring-boot/1.6-api-lab.md)
-    * [Microservices 6](./spring-boot/1.7-api-lab.md)
-
+1. [Environment preparation](./00-Environment-Preparation/1.0-env-prepare.md)
+2. [Getting Start with Spring Boot](./01-Getting-started-spring-boot/1.1-api-lab.md)
+3. [Introduction to Microservices and Project Setup](./02-Introduction-to-microservices-and-project-setup/1.2-api-lab.md)
+4. [Creating the Product Service Microservice](./03-Creating-the-product-service-microservice/1.3-api-lab.md)
+5. [Creating the Order Service Microservice](./04-creating-the-order-service-microservice/1.4-api-lab.md)
+6. [Inter-Microservice Communication - Calling Product and User Services from Order Service](./05-inter-microservice-communication-calling-product-and-user-services-from-order-service/1.5-api-lab.md)
+7. [Service Discovery with Eureka](./06-service-discovery-with-eureka/1.6-api-lab.md)
+8. [API Gateway with Spring Cloud Gateway](./07-api-gateway-with-spring-cloud-gateway/1.7-api-lab.md)
+9. [Load Balancing with Ribbon](./08-Load-balancing-with-ribbon/1.8-api-lab.md)
+10. [Centralized Configuration with Spring Cloud Config](./09-centralized-configuration-with-spring-cloud-config/1.9-api-lab.md)
 
 ## Old Labs.
 
