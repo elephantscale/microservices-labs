@@ -11,6 +11,8 @@
 8. [API Gateway with Spring Cloud Gateway](./07-api-gateway-with-spring-cloud-gateway/1.7-api-lab.md)
 9. [Load Balancing with Ribbon](./08-Load-balancing-with-ribbon/1.8-api-lab.md)
 10. [Centralized Configuration with Spring Cloud Config](./09-centralized-configuration-with-spring-cloud-config/1.9-api-lab.md)
+11. [Service Resilience with Hystrix Circuit Breaker](./10-service-resilience-with-hystrix-circuit-breaker/1.10-api-lab.md)
+
 
 ## Old Labs.
 
