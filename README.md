@@ -25,4 +25,7 @@
 
 ## Setup
 * [VM for labs](VM-lab-setup.md)
+  -  Starter VM
+    - On ES Azure
+![](images/starter_vm.png)
 
