@@ -23,9 +23,7 @@
 3. [Spring-Cloud-Config-Server](./spring-cloud-config-server)
     * [Setup and Configure Spring Cloud Config Server](./spring-cloud-config-server/config-server.md)
 
-## Setup
-* [VM for labs](VM-lab-setup.md)
-  -  Starter VM
-    - On ES Azure
+## Where to get the VM
+* Start the ES VM on Azure
 ![](images/starter_vm.png)
 
