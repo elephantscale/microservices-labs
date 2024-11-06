@@ -23,5 +23,6 @@
 3. [Spring-Cloud-Config-Server](./spring-cloud-config-server)
     * [Setup and Configure Spring Cloud Config Server](./spring-cloud-config-server/config-server.md)
 
-## [VM lab setup](VM-lab-setup.md)
+## Setup
+* [VM for labs](VM-lab-setup.md)
 
