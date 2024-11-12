@@ -1,6 +1,5 @@
 # Microservices Labs
 
-
 1. [Environment preparation](./00-Environment-Preparation/1.0-env-prepare.md)
 2. [Getting Start with Spring Boot](./01-Getting-started-spring-boot/1.1-api-lab.md)
 3. [Introduction to Microservices and Project Setup](./02-Introduction-to-microservices-and-project-setup/1.2-api-lab.md)
@@ -23,3 +22,8 @@
     * [Create Simple Rest Service](./limits-service/simple-rest.md)
 3. [Spring-Cloud-Config-Server](./spring-cloud-config-server)
     * [Setup and Configure Spring Cloud Config Server](./spring-cloud-config-server/config-server.md)
+
+## Where to get the VM
+* Start the ES VM on Azure
+![](images/starter_vm.png)
+
